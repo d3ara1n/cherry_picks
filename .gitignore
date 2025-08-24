@@ -1,0 +1,4 @@
+build/
+snapshots/
+
+data.lock.json
