@@ -34,14 +34,14 @@
 
 以下是使用 Trident 兼容工具进行本地构建的方法。
 
-### 🔱 使用 trident-cli
+### 🔱 使用 trident-cli (WIP)
 
 ```sh
 git clone git@github.com:d3ara1n/cherry_picks ~/.trident/instances/cherry_picks
 trident deploy cherry_picks
 ```
 
-### 🦄 使用 [Polymerium](https://github.com/d3ara1n/Polymerium)
+### 🐿️ 使用 [Polymerium](https://github.com/d3ara1n/Polymerium)
 
 ```sh
 git clone git@github.com:d3ara1n/cherry_picks ~/.trident/instances/cherry_picks
