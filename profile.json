@@ -3,7 +3,7 @@
   "setup": {
     "source": null,
     "version": "1.21.1",
-    "loader": "net.neoforged:21.1.209",
+    "loader": "net.neoforged:21.1.215",
     "packages": [
       {
         "purl": "curseforge:60089@5637846",
@@ -3047,6 +3047,12 @@
       },
       {
         "purl": "curseforge:1224821@6328099",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:563464@6970810",
         "enabled": true,
         "source": null,
         "tags": []
