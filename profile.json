@@ -3085,7 +3085,9 @@
         "purl": "curseforge:1121215@6928979",
         "enabled": true,
         "source": null,
-        "tags": []
+        "tags": [
+          "\u6027\u80FD\u5F71\u54CD\u4E25\u91CD"
+        ]
       },
       {
         "purl": "curseforge:1258344@7260024",
