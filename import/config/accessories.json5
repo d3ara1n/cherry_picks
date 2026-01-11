@@ -41,6 +41,10 @@
 		{
 			"slotType": "charm",
 			"amount": 4
+		},
+		{
+			"slotType": "ring",
+			"amount": 8
 		}
 	]
 }
