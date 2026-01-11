@@ -45,6 +45,22 @@
 		{
 			"slotType": "ring",
 			"amount": 8
+		},
+		{
+			"slotType": "belt",
+			"amount": 1
+		},
+		{
+			"slotType": "anklet",
+			"amount": 1
+		},
+		{
+			"slotType": "wrist",
+			"amount": 1
+		},
+		{
+			"slotType": "hat",
+			"amount": 1
 		}
 	]
 }
