@@ -61,6 +61,14 @@
 		{
 			"slotType": "hat",
 			"amount": 1
+		},
+		{
+			"slotType": "necklace",
+			"amount": 2
+		},
+		{
+			"slotType": "belt",
+			"amount": 1
 		}
 	]
 }
