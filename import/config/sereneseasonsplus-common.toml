@@ -24,7 +24,7 @@
 
 [seasonalDaylightCycle]
 	#Enable seasonal daylight cycle. This will change the length of day and night based on the current season.
-	enableSeasonalDaylightCycle = true
+	enableSeasonalDaylightCycle = false
 	#If true, the day and night lengths will be determined by the custom values set below. If false, the day and night lengths will be determined by the season.
 	customCycleLength = false
 	#Custom day length in ticks. Only used if seasonal daylight cycle is disabled.
@@ -34,7 +34,7 @@
 	#Custom night length in ticks. Only used if seasonal daylight cycle is disabled.
 	# Default: 1.0
 	# Range: 0.05 ~ 100.0
-	customNightLength = 0.25
+	customNightLength = 0.5
 
 ["Grass and Flower Growth"]
 	#Enable enhanced grass and flower growth during warm seasons.
