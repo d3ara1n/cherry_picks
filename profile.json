@@ -1643,7 +1643,9 @@
         "purl": "curseforge:247895@5658694",
         "enabled": true,
         "source": null,
-        "tags": []
+        "tags": [
+          "\u9AD8\u5EA6\u53EF\u7591"
+        ]
       },
       {
         "purl": "curseforge:495336@7039369",
@@ -3306,6 +3308,23 @@
         "source": null,
         "tags": [
           "\u529F\u80FD\u88AB\u5176\u4ED6\u6A21\u7EC4\u7834\u574F"
+        ]
+      },
+      {
+        "purl": "curseforge:482378@7518793",
+        "enabled": false,
+        "source": null,
+        "tags": [
+          "\u529F\u80FD\u88AB\u5176\u4ED6\u6A21\u7EC4\u7834\u574F"
+        ]
+      },
+      {
+        "purl": "curseforge:1132901",
+        "enabled": false,
+        "source": null,
+        "tags": [
+          "\u529F\u80FD\u88AB\u5176\u4ED6\u6A21\u7EC4\u7834\u574F",
+          "\u5F85\u652F\u6301\u5230\u6E38\u620F\u7248\u672C"
         ]
       }
     ]
