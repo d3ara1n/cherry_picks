@@ -69,6 +69,10 @@
 		{
 			"slotType": "belt",
 			"amount": 1
+		},
+		{
+			"slotType": "trinket",
+			"amount": 4
 		}
 	]
 }
