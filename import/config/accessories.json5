@@ -73,6 +73,10 @@
 		{
 			"slotType": "trinket",
 			"amount": 4
+		},
+		{
+			"slotType": "arrow",
+			"amount": 5
 		}
 	]
 }
