@@ -3583,6 +3583,24 @@
         "enabled": true,
         "source": null,
         "tags": []
+      },
+      {
+        "purl": "curseforge:1396210@7283889",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:852662@5770623",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:1212044@7606031",
+        "enabled": true,
+        "source": null,
+        "tags": []
       }
     ],
     "rules": []
