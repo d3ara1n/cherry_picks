@@ -1,0 +1,17 @@
+{
+  "includedOverrides": [
+    {
+      "enabled": true,
+      "key": "java.max_memory"
+    },
+    {
+      "enabled": true,
+      "key": "java.additional_arguments"
+    },
+    {
+      "enabled": true,
+      "key": "behavior.connect.address"
+    }
+  ],
+  "includingSource": false
+}
