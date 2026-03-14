@@ -1,0 +1,27 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "52C5DF300FEA2397"
+	group: ""
+	id: "52C5DF300FEA2397"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "178513FCE0B80663"
+		rewards: [{
+			id: "78B4F28B86469341"
+			item: {
+				count: 1
+				id: "beyonddimensions:net_creater"
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "6377326F8AAE8846"
+			item: { count: 1, id: "minecraft:stick" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}
