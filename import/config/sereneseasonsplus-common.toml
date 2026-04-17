@@ -43,6 +43,3 @@
 [seasonSync]
 	#Lock seasons to current Canadian calendar months (Eastern time).
 	realTimeCanadianSeasons = false
-
-[snowStorms]
-	maxSnowAccumulationLayers = 24
