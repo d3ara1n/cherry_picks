@@ -3,7 +3,7 @@
   "setup": {
     "source": null,
     "version": "1.21.1",
-    "loader": "net.neoforged:21.1.222",
+    "loader": "net.neoforged:21.1.225",
     "packages": [
       {
         "purl": "curseforge:60089@5637846",
@@ -3686,7 +3686,7 @@
         "tags": []
       },
       {
-        "purl": "curseforge:1264058@7765163",
+        "purl": "curseforge:1264058@7845085",
         "enabled": true,
         "source": null,
         "tags": [
@@ -3812,9 +3812,30 @@
         "enabled": true,
         "source": null,
         "tags": []
+      },
+      {
+        "purl": "curseforge:1339737@7575082",
+        "enabled": true,
+        "source": null,
+        "tags": []
       }
     ],
-    "rules": []
+    "rules": [
+      {
+        "selector": {
+          "type": "kind",
+          "children": null,
+          "purl": null,
+          "repository": null,
+          "tag": null,
+          "kind": "resourcePack"
+        },
+        "enabled": true,
+        "destination": null,
+        "skipping": false,
+        "normalizing": true
+      }
+    ]
   },
   "overrides": {
     "behavior.resolve.dependency": false,
