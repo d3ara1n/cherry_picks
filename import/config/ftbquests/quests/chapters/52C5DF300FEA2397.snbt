@@ -8,14 +8,24 @@
 	quest_links: [ ]
 	quests: [{
 		id: "178513FCE0B80663"
-		rewards: [{
-			id: "78B4F28B86469341"
-			item: {
-				count: 1
-				id: "beyonddimensions:net_creater"
+		rewards: [
+			{
+				id: "78B4F28B86469341"
+				item: {
+					count: 1
+					id: "beyonddimensions:net_creater"
+				}
+				type: "item"
 			}
-			type: "item"
-		}]
+			{
+				id: "699B7256AE6746EF"
+				item: {
+					count: 1
+					id: "darksduplicator:replicator"
+				}
+				type: "item"
+			}
+		]
 		tasks: [{
 			id: "6377326F8AAE8846"
 			item: { count: 1, id: "minecraft:stick" }
