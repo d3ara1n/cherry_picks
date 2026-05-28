@@ -3818,6 +3818,12 @@
         "enabled": true,
         "source": null,
         "tags": []
+      },
+      {
+        "purl": "curseforge:1513576@8030999",
+        "enabled": true,
+        "source": null,
+        "tags": []
       }
     ],
     "rules": [
@@ -3839,6 +3845,9 @@
   },
   "overrides": {
     "behavior.resolve.dependency": false,
-    "behavior.deploy.fastmode": false
+    "behavior.deploy.fastmode": false,
+    "modpack.name": "Cherry Picks",
+    "modpack.author": "Dearain",
+    "modpack.version": "1.0.0"
   }
 }

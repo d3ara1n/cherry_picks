@@ -4,3 +4,4 @@ live/
 persist/
 
 data.lock.json
+.alma-snapshots
